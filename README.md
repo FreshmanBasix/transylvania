@@ -1,2 +1,0 @@
-# transylvania
-Tactics RPG WIP
